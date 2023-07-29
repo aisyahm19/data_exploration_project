@@ -18,7 +18,7 @@ SELECT * FROM appleStore_description4;
 
 **EXPLORATOTY DATA ANALYST (EDA)**
 
--- check the number of unique apps in both tablesAppleStore
+-- check the number of unique apps in both tables
 
 SELECT COUNT(distinct id) as UniqueAppIDs
 from AppleStore;
